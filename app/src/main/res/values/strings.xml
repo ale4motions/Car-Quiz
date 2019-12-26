@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Car Quiz</string>
+    <string name="in_fight_battle">In Fight Battle</string>
+    <string name="guess_cars">Guess Car</string>
+    <string name="ammo">Ammo</string>
+    <string name="checkpoint_time">Checkpoint Time</string>
+    <string name="well_done_ready_for_next_level">Well Done! Ready for next level?</string>
+    <string name="continue_">Continue</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="start_game">START GAME</string>
+    <string name="exit_game">EXIT GAME</string>
+    <string name="created_by">Created by</string>
+    <string name="alexandra_suciu_amp_alexandra_surdu"><![CDATA[Alexandra Suciu & Alexandra Surdu]]></string>
+    <string name="end_game">END GAME</string>
+    <string name="congratulations_you_finished_the_quiz">Congratulations! You finished the quiz!</string>
+    <string name="baack_to_home">Back to HOME</string>
+</resources>
